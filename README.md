@@ -63,23 +63,7 @@ Framer Motion: Enhance the application's visual appeal with smooth and interacti
 
 Tailwind CSS: Style the app with the utility-first CSS framework, providing a sleek and modern design.
 
-Getting Started
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/food-delivery-app.git
-Install Dependencies:
-
-bash
-Copy code
-cd food-delivery-app
-npm install
-Firebase Configuration:
-
-Set up a Firebase project.
-Configure Firebase settings in the application.
-Create a Firestore database to store menu items and related data.
 
 ![image](https://github.com/MOHDSAMIULLAH/food-delivery-app/assets/91786605/4ffb2c74-bd23-4c1b-8d8f-c343beaff7d7)
 ![image](https://github.com/MOHDSAMIULLAH/food-delivery-app/assets/91786605/278a2c00-7fcb-4e24-9aa8-68775da13019)
